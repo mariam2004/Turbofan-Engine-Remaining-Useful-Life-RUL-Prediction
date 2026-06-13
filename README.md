@@ -25,6 +25,16 @@ This is formulated as a supervised regression problem where:
 
 ---
 
+## Dataset Source
+
+This project uses the NASA Commercial Modular Aero-Propulsion System Simulation (C-MAPSS) dataset for Remaining Useful Life (RUL) prediction.
+
+Official NASA Dataset:
+
+https://data.nasa.gov/docs/legacy/CMAPSSData.zip
+
+The FD004 subset was used in this project because it contains multiple operating conditions and multiple fault modes, making it one of the most challenging benchmark datasets for predictive maintenance and RUL estimation.
+
 # Dataset Description
 
 The project uses the NASA Commercial Modular Aero-Propulsion System Simulation (CMAPSS) dataset.
